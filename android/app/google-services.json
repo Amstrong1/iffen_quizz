@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713375412446",
+    "project_id": "iffenquiz",
+    "storage_bucket": "iffenquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713375412446:android:b914e50bb3538d44b9924f",
+        "android_client_info": {
+          "package_name": "com.example.iffen_quizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukAnBp8T5qZl7eAS767y0bcQwptSKEW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
